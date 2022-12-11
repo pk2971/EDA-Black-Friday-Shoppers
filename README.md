@@ -4,7 +4,7 @@ EDA project on Black Friday Shoppers to understand the customers.
 Data set taken from Kaggle, uploaded in the repository.
 
 
-In this porject we analyze the data taken from a Black Friday Sale.
+In this project we analyze the data taken from a Black Friday Sale.
 
 We would like to find out about the shopping habits of customers across Gender, Occupation and other factors. 
 
